@@ -10,7 +10,7 @@ Refactor all code
 
 ![image](https://github.com/behemothbucket/APPET/assets/77882745/a3a0740e-961c-4bbf-9421-2fca170a2a42)
 
-![image](https://github.com/behemothbucket/APPET/assets/77882745/686b343e-56c0-47e6-b198-92f6bd8f1bd6)
+![image](https://github.com/behemothbucket/APPET/assets/77882745/92cd62a3-fdb3-4642-b946-c5bcbae5d947)
 
 ![image](https://github.com/behemothbucket/APPET/assets/77882745/f17dcf0d-c773-48b6-b4a0-737cce260b05)
 
